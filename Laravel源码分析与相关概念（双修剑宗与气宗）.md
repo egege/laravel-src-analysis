@@ -6,6 +6,8 @@
 
 [laravel源码解析](https://learnku.com/blog/leoyang?page=5)
 
+[源码解析2](https://learnku.com/articles/41092)
+
 [依赖注入、控制反转、反射各个概念的理解和使用](https://laravelacademy.org/post/9782)
 
 # Laravel框架中的设计模式
